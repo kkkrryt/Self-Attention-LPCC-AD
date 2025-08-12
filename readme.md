@@ -1,4 +1,4 @@
-# OctFormer
+
 
 ## Test
 We prepare pretrained models on SemanticKITTI/ScanNet datset, you can evaluate the compression performamce by running
